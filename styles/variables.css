@@ -1,0 +1,21 @@
+@import "../fonts/fonts.css";
+:root {
+  --font-family: 'Lab Grotesque', sans-serif;
+  --second-family: "Montserrat", sans-serif;
+  --third-family: "Inter", sans-serif;
+}
+
+:root {
+    --white : rgb(255, 255, 255);
+    --white-opacity: rgba(255, 255, 255, 0.8);
+    --white-volume-btn: rgba(255, 255, 255, 0.1);
+    --head-btn: #222733;
+    --head-btn-opacity:rgba(34, 39, 51, 0.6);
+    --head-btn-opcity-more:rgba(34, 39, 51, 0.8);
+    --grey: #545e76;
+    --grey-opacity:rgba(84, 94, 118, 0.12);
+    --grey-client-bg: #f3f5f8;
+    --dark-grey-opacity:rgba(35, 40, 52, 0.8);
+    --black: #000;
+    --black-opacity: hsla(0, 0%, 0%, 0.6);
+}

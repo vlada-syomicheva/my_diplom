@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Lab Grotesque';
+    font-weight: 300;
+    font-style: normal;
+    src: local('Lab Grotesque'), url(./LabGrotesque-Light.woff2);
+}
+
+@font-face {
+    font-family: 'Lab Grotesque';
+    font-weight: medium;
+    font-style: normal;
+    src: local('Lab Grotesque'), url(./LabGrotesque-Medium.woff2); 
+}
+
+@font-face {
+    font-family: 'Lab Grotesque';
+    font-weight: normal;
+    font-style: normal;
+    src: local('Lab Grotesque'), url(./LabGrotesque-Regular.woff2);
+}
+
+@font-face {
+    font-family: 'Lab Grotesque';
+    font-weight: bold;
+    font-style: normal;
+    src: local('Lab Grotesque'), url(./LabGrotesque-Bold.woff2); 
+}
